@@ -1,0 +1,36 @@
+.carrier-tag{
+    width: fit-content;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.list-name-item{
+    font-size: 1.1rem;
+    text-transform: uppercase;
+}
+.list-name-item.active{
+    color: #009191;
+    border-left: 2px solid #009191;
+    font-size: 1rem ;
+    font-weight: bold;
+}
+
+.content-item{
+    text-align: left;
+    margin-bottom: 1rem;
+}
+.content-desc{
+    width: calc(100% - 30px);
+}
+.item-list-style{
+    width: 30px;
+    margin: 0 1rem 0 0 !important;
+}
+.item-list-style{
+    font-size: 0.9rem;
+}
+.right-content-box{
+    
+}
